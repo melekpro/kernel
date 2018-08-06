@@ -31,7 +31,7 @@
 //#define GSL_MONITOR
 
 #define GSLX680_NAME	"gslX680"
-#define GSLX680_ADDR	0x40
+#define GSLX680_ADDR	0x28
 #define MAX_FINGERS	  	10
 #define MAX_CONTACTS	10
 #define DMA_TRANS_LEN	0x20
